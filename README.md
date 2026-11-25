@@ -1,5 +1,3 @@
-# Niko Karppinen
-
 **Senior SEO & Analytics Consultant · SEO · Web analytics · Google Tag Manager**
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="Hi, I'm Niko Karppinen. I help teams fix their tracking, make sense of their data and improve their websites." width="1200"></picture>
