@@ -24,6 +24,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/link-youtube-dark.png">
   <img src="assets/link-youtube-light.png" alt="YouTube" height="30">
 </picture></a>
+  <a href="https://wsocial.eu/profile/lawlietnick.wsocial.eu"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/link-wsocial-dark.png">
+  <img src="assets/link-wsocial-light.png" alt="WSocial" height="30">
+</picture></a>
 </p>
 
 Niko Karppinen is a Senior SEO & Analytics Consultant at Agency Bobble, based in Helsinki, Finland. Niko works with SEO, web analytics and data-driven website development.
